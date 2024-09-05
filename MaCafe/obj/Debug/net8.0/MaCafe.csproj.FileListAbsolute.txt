@@ -1,0 +1,14 @@
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\bin\Debug\net8.0\MaCafe.exe
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\bin\Debug\net8.0\MaCafe.deps.json
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\bin\Debug\net8.0\MaCafe.runtimeconfig.json
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\bin\Debug\net8.0\MaCafe.dll
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\bin\Debug\net8.0\MaCafe.pdb
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.AssemblyInfoInputs.cache
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.AssemblyInfo.cs
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.dll
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\refint\MaCafe.dll
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.pdb
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\MaCafe.genruntimeconfig.cache
+C:\Users\Paul\Desktop\CS50\C#\MaCafe\MaCafe\obj\Debug\net8.0\ref\MaCafe.dll
